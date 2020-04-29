@@ -9,10 +9,10 @@ In this repository, we uploaded our scripts, summary paper, poster, and presenta
 Please refer to the index below to locate any files:
 
 `Scripts`
-* `3_Sampling.R`: 
-* `3_Sampling_Reduced.R`:
-* `4_Feature_Selection_Final.ipynb`:
-* `4_Variable_Selection_34.R`: 
+* `Sampling.R`: 
+* `Sampling_Reduced.R`:
+* `Feature_Selection_Final.ipynb`:
+* `Variable_Selection_34.R`: 
 * `Modeling`:
    - `GLM`
    - `RF`
