@@ -9,19 +9,19 @@ In this repository, we uploaded our scripts, summary paper, poster, and presenta
 Please refer to the index below to locate any files:
 
 `Scripts`
-* `Sampling.R`: 
-* `Sampling_Reduced.R`:
-* `Feature_Selection_Final.ipynb`:
-* `Variable_Selection_34.R`: 
+* `Sampling.R`: in-time and out-of-time stratified sampling
+* `Sampling_Reduced.R`: in-time stratified samling with less observations
+* `Feature_Selection_Final.ipynb`: variable selection using Python
+* `Variable_Selection_34.R`: extract selected variables from each subset
 * `Modeling`:
-   - `GLM`
-   - `RF`
-   - `XGBoost`
-   - `Neural Network`
+   - `GLM`: 4 scripts
+   - `RF`: 8 scripts
+   - `XGBoost`: 2 scripts
+   - `NNModel_prediction.ipynb`: neural network in Python notebook
 
-`Summary Paper.pdf`
+`Summary Paper.pdf`: project summary paper
 
-`A7 Poster.pdf`
+`A7 Poster.pdf`: project poster
 
-`A7 Slides.pdf`
+`A7 Slides.pdf`: presentation slide deck
 
