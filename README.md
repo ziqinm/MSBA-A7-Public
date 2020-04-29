@@ -14,7 +14,7 @@ Please refer to the index below to locate any files:
 * `4_Feature_Selection_Final.ipynb`:
 * `4_Variable_Selection_34.R`: 
 * `Modeling`:
- +  `GLM`
+ * `GLM`
 +  `RF`
 +  `XGBoost`
 +  `Neural Network`
