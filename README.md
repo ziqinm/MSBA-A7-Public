@@ -8,7 +8,7 @@ In this repository, we uploaded our scripts, summary paper, poster, and presenta
 
 Please refer to the index below to locate any files:
 
-`Scripts`
+`Scripts`:
 * `Sampling.R`: in-time and out-of-time stratified sampling
 * `Sampling_Reduced.R`: in-time stratified samling with less observations
 * `Feature_Selection_Final.ipynb`: variable selection using Python
