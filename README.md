@@ -13,6 +13,7 @@ Please refer to the index below to locate any files:
 * `Sampling_Reduced.R`: in-time stratified samling with less observations
 * `Feature_Selection_Final.ipynb`: variable selection using Python
 * `Variable_Selection_34.R`: extract selected variables from each subset
+* `Samples/`: 5 subsets of the data that we used for modeling
 * `Modeling/`:
    - `GLM/`: 4 scripts
    - `RF/`: 8 scripts
