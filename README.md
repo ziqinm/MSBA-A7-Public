@@ -8,6 +8,8 @@ In this repository, we uploaded our scripts, summary paper, poster, and presenta
 
 Please refer to the index below to locate any files:
 
+`Samples/`: 5 subsets of the data that we used for modeling
+
 `Scripts/`:
 * `Sampling.R`: in-time and out-of-time stratified sampling
 * `Sampling_Reduced.R`: in-time stratified samling with less observations
@@ -23,13 +25,12 @@ Please refer to the index below to locate any files:
    - `Lorenz1`: Lorenz curve of Oldmodel and XGBoost including Oldmodel as a variable in Train_Full sample
    - `Lorenz2`: Lorenz curve of Oldmodel and XGBoost including Oldmodel as a variable in Test_Full sample
    
-`Samples/`: 5 subsets of the data that we used for modeling
-
 `Deliverables/`:
-
-* `A7 Summary Paper.pdf`: project summary paper
 
 * `A7 Poster.pdf`: project poster
 
 * `A7 Slides.pdf`: presentation slide deck
+
+* `A7 Summary Paper.pdf`: project summary paper
+
 
