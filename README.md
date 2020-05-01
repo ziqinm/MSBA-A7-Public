@@ -1,7 +1,7 @@
 # MSBA-A7-Public
 This is the public repository for the MSBA capstone project of Cohort A Team 7. For the evaluation purpose, we uploaded part of our work here that is accessable to public users.
 
-Our goal is to explore features associated with risks of homeowner insurance loss, and then build a predictive model on house damage losses at the zip code level in the United States, using newly-generated efficient variables. With the help from a fast-growing insurance company, we started from data exploration and found two additional data sources. Then we completed feature engineering and selection. After training the sample with four models (GLM, Random forest, XGBoost, and Neutal Network), we successfully verified that our new features have a predictive power on insurance loss. Even, some of the variables can add extra power on the existing company model.
+Our goal is to explore features associated with risks of homeowner insurance loss, and then build a predictive model, using newly-generated efficient variables, on house damage losses at the zip code level in the United States. With the help from a fast-growing insurance company, we started from data exploration and found two additional data sources. Then we completed feature engineering and selection. After training the sample with four models (GLM, Random forest, XGBoost, and Neutal Network), we successfully verified that our new features have a predictive power on insurance loss. Even, some of the variables can add extra power on the existing company model.
 
 This repository includes partial scripts, summary paper, poster, and presentation slides. 
 *As per the request of the company, the scripts for data exploration and feature engineering are excluded.*
