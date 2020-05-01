@@ -27,7 +27,7 @@ Please refer to the index below to locate any files:
 
 `Deliverables/`:
 
-* `Summary Paper.pdf`: project summary paper
+* `A7 Summary Paper.pdf`: project summary paper
 
 * `A7 Poster.pdf`: project poster
 
