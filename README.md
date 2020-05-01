@@ -22,8 +22,8 @@ Please refer to the index below to locate files:
    - `NNModel_prediction.ipynb`: neural network in Python notebook
    - `Model_Eval_NCAT.R`: AUC calculation script
    - `Lorenz Curve Comparision.R`: script for plotting lorenz curves
-   - `Lorenz1`: Lorenz curve of Oldmodel and XGBoost including Oldmodel as a variable in Train_Full sample
-   - `Lorenz2`: Lorenz curve of Oldmodel and XGBoost including Oldmodel as a variable in Test_Full sample
+   - `Lorenz1.png`: Lorenz curve of Oldmodel and XGBoost including Oldmodel as a variable in Train_Full sample
+   - `Lorenz2.png`: Lorenz curve of Oldmodel and XGBoost including Oldmodel as a variable in Test_Full sample
    
 `Deliverables/`:
 
