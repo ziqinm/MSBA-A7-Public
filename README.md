@@ -38,7 +38,7 @@ Please refer to the index below to locate files:
 
 * `A7 Poster.pdf`: project poster
 
-* `A7 Slides.pdf`: presentation slide deck (updated on May 1)
+* `A7 Slides.pdf`: presentation slide deck (updated on May 4)
 
 * `A7 Summary Paper.pdf`: project summary paper
 
